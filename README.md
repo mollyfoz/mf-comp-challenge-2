@@ -10,4 +10,4 @@ Special consideration was given toward color schemes and font mixing to be unobt
 
 
 ### Final Comp
-![image of recreated comp](https://github.com/mollyfoz/mf-comp-challenge-1/blob/master/assets/Screen%20Shot%202017-05-23%20at%209.23.08%20AM.png)
+![image of recreated comp](https://github.com/mollyfoz/mf-comp-challenge-2/blob/master/assets/Screen%20Shot%202017-05-30%20at%206.25.09%20AM.png)
